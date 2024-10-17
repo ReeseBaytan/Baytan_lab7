@@ -42,4 +42,3 @@ else:
             print("Grade 3.00 passed")
         elif 60 <= Average_Grade <= 74:
             print("YOU FAILED")
-            
